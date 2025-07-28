@@ -139,7 +139,7 @@ position: absolute;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 20px;
-    max-width: 80%; 
+/*     max-width: 80%;  */
     margin: 20px auto;
     padding: 0 10px;
 }
