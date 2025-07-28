@@ -222,3 +222,45 @@ position: absolute;
     text-decoration: none;
     font-size: 14px;
 }
+
+/* Footer */
+.footer{
+    margin-top: 8%;
+    background-color: #0A0826;
+    align-items: center;
+}
+
+.footerTitle{
+    padding-top: 5%;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footerText{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 0.5;
+}
+
+.footerItems{
+    padding-top: 1%;
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.footerItemBackground{
+    border-radius: 10px;
+    height: 24px;
+    width: 24px;
+    background-color: rgba(255, 255, 255, 0.183);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
